@@ -1,0 +1,129 @@
+/* CSS Document */
+@media (min-width: 992px) {
+  body {
+    padding-left:400px;
+	background-color:#F1F1F1;
+  }
+}
+.navmenu {
+	height:100%;
+	width:400px;
+	background-color:#8BC179;
+}
+.navmenu a {
+	text-decoration:none;
+	color:#000;
+}
+.navmenu ul {
+	margin-left:40px;
+	font-size:16px;
+	margin-top:50px;
+}
+.navmenu li{
+	padding:5px;
+	list-style-type:none;
+	display: block;
+	vertical-align:middle;
+	font-size:22px;
+	line-height:40px;
+	cursor:pointer;
+		}
+
+.container{
+	background-color:transparent;
+	width:100%;
+	padding-left:30px;
+}
+.option {
+	background-color:#B8DCDC;
+	padding:25px;
+	cursor:pointer;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:solid 1px  #CFE7E7;
+	margin:10px;
+	font-size:20px;
+}
+.option:hover {
+	background-color: #8BC179;
+	border:3px solid #9FCC91;
+	box-shadow: inset  #9FCC91;
+	color:#fff;
+	font-weight:bolder;
+	padding:25px;
+	box-shadow: 5px 5px 2px #888888;
+}
+.question {
+	background-color:#B8DCDC;
+	padding:30px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:solid 2px  #CFE7E7;
+	margin-top:150px;
+	margin-bottom:30px;
+	font-size:20px;
+}
+.brand {
+	padding-left:50px;
+	padding-bottom:25px;
+	border-bottom:1px solid #9FCC91;;
+	font-size:24px;
+}
+.mymenu{
+	background-color:#fff;
+	height: auto;
+	padding:10px;
+	vertical-align:middle;
+	border: 1px solid #838383;
+	alignment-adjust:middle;
+}
+.text{
+	vertical-align:middle;
+	margin-left:10px;
+	padding-bottom:15px;
+}
+.start {
+	background:#636363;
+	padding:15px;
+}
+.suc{
+	height:auto;
+	padding:18px;
+	background: #6BCB8D;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	box-shadow:1px 2px 3px #5D5D5D;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:#fff;
+	font-size:18px;
+}
+.erro{
+	height:auto;
+	padding:18px;
+	background: #FF3535;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	box-shadow:1px 2px 3px #5D5D5D;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:#fff;
+	font-size:18px;
+}
+.update{
+	height:auto;
+	padding:18px;
+	background: #B3E79A;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	box-shadow:1px 2px 3px #5D5D5D;
+	margin-top:10px;
+	margin-bottom:10px;;
+	color:#000;
+	font-size:18px;
+}
